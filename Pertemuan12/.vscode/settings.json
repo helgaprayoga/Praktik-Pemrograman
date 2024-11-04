@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "lib"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "e:\\Praktik Pemrograman 1\\Pertemuan12\\lib\\mysql-connector-j-8.0.31.jar"
+    ],
+    "discord.enabled": true
+}
